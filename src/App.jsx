@@ -5,7 +5,7 @@ import {
   Home, Circle, Calendar, Clock, FileText, ArrowUpRight, ZoomIn
 } from "lucide-react";
 
-const SCRIPT_URL = "PASTE_YOUR_NEW_APPS_SCRIPT_WEB_APP_URL_HERE";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbx8IDnNCq076gNZZt1BCRSJUD9KqGr9u6JiblO1MtcJzaV0t7oo_qkZSMv_m1Z9OGe5Nw/exec";
 
 const DAYS = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"];
 
